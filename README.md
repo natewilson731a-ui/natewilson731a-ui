@@ -72,6 +72,7 @@ Secure, production-ready systems
 
 📫 Contact
 - 📧 Email: natewilson731a@gmail.com
+  
 Open to collaboration and long-term projects
 
 Comfortable with async teams and technical discussions
