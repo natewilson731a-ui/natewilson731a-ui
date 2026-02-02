@@ -71,7 +71,7 @@ Blockchain-integrated SaaS products
 Secure, production-ready systems
 
 📫 Contact
-- 📧 Email: natewilson731a@gmail.com
+- 📧 Email: moonsunlight1124@gmail.com
   
 Open to collaboration and long-term projects
 
