@@ -1,4 +1,4 @@
-👋 Hi, I’m Nate
+👋 Hi, 
 
 I’m a Full-Stack Developer specializing in Trading Systems, Blockchain, and Web3 applications. I build reliable, data-driven platforms that combine real-time market data, secure backend logic, and clean user interfaces.
 
